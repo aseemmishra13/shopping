@@ -1,4 +1,4 @@
-# yo
+# Shopping
 
 how to use it<br>
 create a database shopping and import the sql file<br>
